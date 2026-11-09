@@ -1,0 +1,16 @@
+# Build-Ausgaben
+bin/
+obj/
+publish/
+*.exe
+*.pdb
+*.dll
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Lokale Daten (werden zur Laufzeit im AppData-Ordner angelegt)
+*.db
+settings.json
